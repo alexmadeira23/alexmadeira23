@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**alexmadeira23/alexmadeira23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![obi-wan saying hello there](https://user-images.githubusercontent.com/76069448/184554568-ad2e71c0-423b-4fb2-88e4-54cd57f8a047.gif)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+Here are some facts about me:
+- 🤓 My name is Alexandre (Alex for short)
+- 💻 I'm in the final year of my computer science degree
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning about life
+- ⚡ Fun fact: Star Wars is awesome!
+##
+May the force be with you 🙏
