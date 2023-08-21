@@ -6,7 +6,7 @@
 
 💻 Here's what I'm currently doing:
 
-- 🤖 Final year of Computer Science
+- 🤖 First year of my Master's degree in Computer Science
 - 🚀 Personal Projects taking off
 
 📚🎬🚀 Here's what I'm passionate about:
