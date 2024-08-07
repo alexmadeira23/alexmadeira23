@@ -4,7 +4,7 @@
 
 💻 Here's what I'm currently doing:
 
-- 🤖 First year of my Master's degree in Computer Science
+- 🤖 Final year of my Master's degree in Computer Science
 - 🏗️ Working as a full-stack software developer
 - 🚀 Personal Projects taking off
 
